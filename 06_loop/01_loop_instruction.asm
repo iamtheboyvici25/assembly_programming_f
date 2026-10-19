@@ -16,7 +16,8 @@ repeat:
     mov rdx, length
     syscall
 
-    loop repeat    
+    loop repeat
+
 
     
     mov rax, 60          
